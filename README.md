@@ -51,7 +51,7 @@ The data was exctracted from the website (https://data.covid19india.org/) contai
 
 
 **Insights**
-- In 2020 the cases start increasing from May Week1 and the highest recorded case was in September week 3 and In 2020 the cases started from April week 5 and the highest recorded case was in September week 3 and deceased were also highest during same week.
+- In 2020 the cases start increasing from May Week1 and the highest recorded case was in September week 3 and number of deaths were also highest during same week i.e. September Week 3.
 - In 2021 during April Week1 there was a spike in cases, and the highest recorded cases were during Second week of May while number of deaths were highest during the fourth week of May.
 - 
 - 
