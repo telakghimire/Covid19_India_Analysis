@@ -51,12 +51,12 @@ The data was exctracted from the website (https://data.covid19india.org/) contai
 
 
 **Insights**
-- The Average Response Rate and the Average Acceptance Rate is way higher for a Super_Host (above 95 and above 85 respectively) than a Non_Super_Host and also the Listing Prices is Lower for the Super_Host which will attract lot of customers. Also,The Average Review Score for a Super_Host (mostly above 4.8) in all Category is always higher than the Non_Super_Host. Also we can see that the response time for Super_Host is within an hour in most of the cases.
-- The Average Response rate is Always above 95 for a Super_Host and below 95 for a Non_Super_Host in both the cities, and also the Average Acceptance Rate is above 85 for a Super_Host while below 85 for a Non_Super_Host. The Average Listing Price and The Average Availability Listing Price is also always Lower for a Super_Host in both the cities.
-- The number of Positive words is higher for Super_Host while it is lower for Non_Super_Host and also there is low number of negative words for a Super_Host than Non_Super_Host.
-- The number of Large Property_type is higher for a Non_Super_host than the Super_Host in both the States. So Super Hosts don’t tend to have large property types as compared to Other Hosts.
-- The average price for both years i.e 2022 and 2023 is higher for a Non_Super_Host with max in 2022 and also the count of availability for both years is higher for Non_Super_Host with max in 2022 in both the cities.
-- The average price for both years i.e 2022 and 2023 is higher for Non_Local_host with max in 2022 and also the count of availability for both years is higher for a Non_Local_host.
+- In 2020 the cases start increasing from May Week1 and the highest recorded case was in September week 3 and In 2020 the cases started from April week 5 and the highest recorded case was in September week 3 and deceased were also highest during same week.
+- In 2021 during April Week1 there was a spike in cases, and the highest recorded cases were during Second week of May while number of deaths were highest during the fourth week of May.
+- 
+- 
+- 
+- 
 
 
 
