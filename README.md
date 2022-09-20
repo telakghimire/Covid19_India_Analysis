@@ -17,7 +17,9 @@
 The data was exctracted from the website (https://data.covid19india.org/) containing two json files namely data.min.json and timeseries.min.json.
 ![image](https://user-images.githubusercontent.com/108783182/191178291-c6286538-05a4-4421-8851-2ed54c318ade.png)
 
-
+***Click on the below link to know more about the struture of the data***
+- data.min.json: (https://data.covid19india.org/documentation/v4_data.html)
+- timeseries.min.json: (https://data.covid19india.org/documentation/timeseries.min.html)
 
 
 **Analysis Tasks**
