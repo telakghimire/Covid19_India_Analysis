@@ -7,15 +7,17 @@
 - Extracting data from the website and performing Data Preparation and Cleaning for further analysis.
 - To Analyze the weekly and monthly evolution of the number of confirmed cases, recovered cases, deaths, tests, and vaccination across India and also analyze the severity of cases in different states of India.
 
+**Technology Stack**
+- Python used for data extraction and data cleaning.
+- SQL used for analysis .
+- MS-Excel used for visualization and dashboard.
+
 **Dataset Description**
 
-The analysis was done on the dataset of two cities in Canada i.e, Toronto and Vancouver and each city having four tables namely Hosts, Listings, Reviews and Availability.
-<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="700" height="450" src="https://user-images.githubusercontent.com/108783182/190851874-cd2920a7-b5c7-466e-af68-90923d93851e.png" height="175px"/></a>
-     
-- Host Table stores information about the different Hosts associated with the company.
-- Listings Table stores information about the different listings on the platform.
-- Reviews Table stores information about the reviews customers has provided to the listing so far.
-- Availability Table stores information about the future booking for the next 1 year.
+The data was exctracted from the website (https://data.covid19india.org/) containing two json files namely data.min.json and timeseries.min.json.
+![image](https://user-images.githubusercontent.com/108783182/191178291-c6286538-05a4-4421-8851-2ed54c318ade.png)
+
+
 
 
 **Analysis Tasks**
@@ -46,5 +48,5 @@ The analysis was done on the dataset of two cities in Canada i.e, Toronto and Va
 
 
 **Techstack :**
-SQL Server , MS Excel
+Python(Pandas) , SQL Server , MS Excel
 
