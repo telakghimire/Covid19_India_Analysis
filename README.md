@@ -21,6 +21,13 @@ The data was exctracted from the website (https://data.covid19india.org/) contai
 - data.min.json: (https://data.covid19india.org/documentation/v4_data.html)
 - timeseries.min.json: (https://data.covid19india.org/documentation/timeseries.min.html)
 
+***From the above json files we have created six dataframes or tables for our anlysis by extracting the data from the json file-***
+- StateWise_Data containing the attributes - State, Population, Confirmed, Deceased, Tested, Vaccination1, Vaccinated2.
+- DistrictWise_Data containing the attributes - State, Disticts, Population, Confirmed, Deceased, Tested, Vaccination1, Vaccinated2. Here the data was in cummulative sum, where we needed to segregate it.
+- TimeSeries_Data containing the attributes - State, Date, Confirmed, Deceased, Tested, Vaccination1, Vaccinated2.
+- delta7_StateWise_Data - State, delta7_Confirmed, delta7_Deceased, delta7_Tested, delta7_Vaccination1, delta7_Vaccinated2.
+- delta7_DistictWise_Data - State, Disticts, Population, delta7_Confirmed, delta7_Deceased, delta7_Tested, delta7_Vaccination1, delta7_Vaccinated2.
+- delta7_Timeseries_Data - State, Date, delta7_Confirmed, delta7_Deceased, delta7_Tested, delta7_Vaccination1, delta7_Vaccinated2.
 
 **Analysis Tasks**
 
