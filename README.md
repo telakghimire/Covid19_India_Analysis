@@ -55,7 +55,7 @@ The data was exctracted from the website (https://data.covid19india.org/) contai
 - In 2021 during April Week1 there was a spike in cases, and the highest recorded cases were during Second week of May while number of deaths were highest during the fourth week of May.
 - In 2020, the highest cases was observed in the month of September, while in 2021 the highest cases was observed in the month of May, which was also the worst month of all, for both 2020 and 2021.
 - The Distrists in Category A were the most effected as the Death Percentage were highest, maybe because they have the less number of testing ratio. We can also observe that as testing ratio increases, the death percentage starts declining.
-- The first dose of vaccination started in December 2020, while the second dose started in January 2021, and we can see that as the number of vaccination increases, the number of recovery cases also increases. The highest first dose vaccination was done on August 2021, and for the second dose the highest was on September 2021.
+- The first dose of vaccination started in January 2021, while the second dose started in February 2021, and we can see that as the number of vaccination increases, the number of recovery cases also increases. The highest first dose vaccination was done on August 2021, and for the second dose the highest was on September 2021.
 - 
 
 
