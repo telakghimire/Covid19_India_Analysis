@@ -46,7 +46,9 @@ The data was exctracted from the website (https://data.covid19india.org/) contai
        
 **Dashboard Overview**
 
-![image](https://user-images.githubusercontent.com/108783182/190852845-60529912-8a5d-4f0b-8ce1-f310c25b9716.png)
+![image](https://user-images.githubusercontent.com/108783182/191237173-ac8cdd37-bdf8-46f2-a902-0392032cb456.png)
+![image](https://user-images.githubusercontent.com/108783182/191237272-38793ef9-6e7b-465c-91a9-5bff76f01cd6.png)
+
 
 **Insights**
 - The Average Response Rate and the Average Acceptance Rate is way higher for a Super_Host (above 95 and above 85 respectively) than a Non_Super_Host and also the Listing Prices is Lower for the Super_Host which will attract lot of customers. Also,The Average Review Score for a Super_Host (mostly above 4.8) in all Category is always higher than the Non_Super_Host. Also we can see that the response time for Super_Host is within an hour in most of the cases.
