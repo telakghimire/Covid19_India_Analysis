@@ -61,6 +61,7 @@ The data was exctracted from the website (https://data.covid19india.org/) contai
 - In terms of percentages, Kerala has the most confirmed cases with 14.15% of the population being tested positive, while Punjab has the most percentage of deaths with 2.75% of the confirmed cases.
 - The best performing state for controlling covid19 is Uttar Pradesh with only 0.93% of the population being effected and with recovery percentage of 98.65% of the confirmed cases.
 
+
 **Techstack :**
 Python, SQL Server , MS Excel
 
