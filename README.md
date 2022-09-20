@@ -63,5 +63,5 @@ The data was exctracted from the website (https://data.covid19india.org/) contai
 
 
 **Techstack :**
-Python(Pandas) , SQL Server , MS Excel
+Python, SQL Server , MS Excel
 
