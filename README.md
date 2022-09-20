@@ -32,14 +32,13 @@ The data was exctracted from the website (https://data.covid19india.org/) contai
 **Problem Statement**
 
      - Weekly evolution of number of confirmed cases, recovered cases, deaths, tests. For instance, the dashboard should be able to compare Week 3 of May with Week 2 of August.
-     - - Let’s call `testing ratio(tr) = (number of tests done) / (population)`, now categorise every district in one of the following categories:
-    - Category A: 0.05 ≤ tr ≤ 0.1
-    - Category B: 0.1 < tr ≤ 0.3
-    - Category C: 0.3 < tr ≤ 0.5
-    - Category D: 0.5 < tr ≤ 0.75
-    - Category E: 0.75 < tr ≤ 1.0
-    
-    Now perform an analysis of number of deaths across all category. Example, what was the number / % of deaths in Category A district as compared for Category E districts.
+     - Let’s call `testing ratio(tr) = (number of tests done) / (population)`, now categorise every district in one of the following categories:
+          Category A: 0.05 ≤ tr ≤ 0.1
+          Category B: 0.1 < tr ≤ 0.3
+          Category C: 0.3 < tr ≤ 0.5
+          Category D: 0.5 < tr ≤ 0.75
+          Category E: 0.75 < tr ≤ 1.0
+       Now perform an analysis of number of deaths across all category. Example, what was the number / % of deaths in Category A district as compared for Category E districts.
      - Compare delta7 confirmed cases with respect to vaccination
      - Make at least 2 such KPI that presents the severity of case in different states (example: Any numerical measure to comment on how severe were the cases in Bihar as compared to that of Kerala).
      - Categorise total number of confirmed cases in a state by Months and come up with that one month which was worst for India in terms of number of cases.
