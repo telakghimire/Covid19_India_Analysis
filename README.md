@@ -29,16 +29,21 @@ The data was exctracted from the website (https://data.covid19india.org/) contai
 - delta7_DistictWise_Data - State, Disticts, Population, delta7_Confirmed, delta7_Deceased, delta7_Tested, delta7_Vaccination1, delta7_Vaccinated2.
 - delta7_Timeseries_Data - State, Date, delta7_Confirmed, delta7_Deceased, delta7_Tested, delta7_Vaccination1, delta7_Vaccinated2.
 
-**Analysis Tasks**
+**Problem Statement**
 
-     - Analyze different metrics to draw the distinction between Super Host and Other Hosts
-     - Identify top 3 crucial metrics one needs to maintain to become a Super Host and also, find their average values.
-     - Prepare a table of Different Aspect in one sheet,named as 'Different Analysis'.
-     - Analyze how does the comments of reviewers vary for listings of Super Hosts vs Other Hosts(Extract words from the comments provided by the reviewers)
-     - Analyze do Super Hosts tend to have large property types as compared to Other Hosts.
-     - Analyze the average price and availability of the listings for the upcoming year between Super Hosts and Other Hosts.
-     - Analyze the above trends for the two cities and provide insights on comparison.
-     - Create a dashboard.
+     - Weekly evolution of number of confirmed cases, recovered cases, deaths, tests. For instance, the dashboard should be able to compare Week 3 of May with Week 2 of August.
+     - - Let’s call `testing ratio(tr) = (number of tests done) / (population)`, now categorise every district in one of the following categories:
+    - Category A: 0.05 ≤ tr ≤ 0.1
+    - Category B: 0.1 < tr ≤ 0.3
+    - Category C: 0.3 < tr ≤ 0.5
+    - Category D: 0.5 < tr ≤ 0.75
+    - Category E: 0.75 < tr ≤ 1.0
+    
+    Now perform an analysis of number of deaths across all category. Example, what was the number / % of deaths in Category A district as compared for Category E districts.
+     - Compare delta7 confirmed cases with respect to vaccination
+     - Make at least 2 such KPI that presents the severity of case in different states (example: Any numerical measure to comment on how severe were the cases in Bihar as compared to that of Kerala).
+     - Categorise total number of confirmed cases in a state by Months and come up with that one month which was worst for India in terms of number of cases.
+     - Generate 2 - 3 insights that is very difficult to observe.
        
 **Dashboard Overview**
 
