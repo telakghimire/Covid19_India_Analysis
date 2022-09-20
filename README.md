@@ -46,7 +46,7 @@ The data was exctracted from the website (https://data.covid19india.org/) contai
        
 **Dashboard Overview**
 
-![image](https://user-images.githubusercontent.com/108783182/191237173-ac8cdd37-bdf8-46f2-a902-0392032cb456.png)
+![image](https://user-images.githubusercontent.com/108783182/191237509-be0a7dde-96c7-452d-817e-0626e29b3466.png)
 ![image](https://user-images.githubusercontent.com/108783182/191237272-38793ef9-6e7b-465c-91a9-5bff76f01cd6.png)
 
 
